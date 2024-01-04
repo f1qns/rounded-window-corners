@@ -75,7 +75,7 @@ extensions.
 [![pack-padge][11]][9]
 
 ```bash
-gnome-extensions install rounded-window-corners@yilozt.shell-extension.zip
+gnome-extensions install rounded-window-corners@f1qns.shell-extension.zip
 ```
 
 ## Translations
@@ -135,8 +135,8 @@ yarn vm
 [5]: https://gitlab.gnome.org/ewlsh/gi.ts
 [6]: https://user-images.githubusercontent.com/32430186/181902857-d4d10740-82fe-4941-b064-d436b9ea7317.png
 [7]: https://extensions.gnome.org/extension/5237/rounded-window-corners/
-[8]: https://github.com/yilozt/rounded-window-corners/releases
-[9]: https://github.com/yilozt/rounded-window-corners/actions/workflows/pack.yml
+[8]: https://github.com/f1qns/rounded-window-corners/releases
+[9]: https://github.com/f1qns/rounded-window-corners/actions/workflows/pack.yml
 [10]: https://img.shields.io/github/v/release/yilozt/rounded-window-corners?style=flat-square
 [11]: https://img.shields.io/github/actions/workflow/status/yilozt/rounded-window-corners/pack.yml?branch=main&style=flat-square
 [12]: https://hosted.weblate.org/widgets/rounded-window-corners/-/rounded-window-corners/multi-auto.svg
